@@ -1,0 +1,21 @@
+{
+  "source": "ChatGPT built-in image generator; prompts in docs",
+  "images": {
+    "front.png": {
+      "sha256": "0301e4352cbd0913e2c95cdbed9e6d88e8de32bae220566f81a314dd6abc1bab",
+      "bytes": 1138851
+    },
+    "back.png": {
+      "sha256": "d715d42b846bc3e8c997e2d6dcd6c86f364aee29a936985b548c466dfdeecdaf",
+      "bytes": 820741
+    },
+    "front-conditioning.png": {
+      "sha256": "9fd40ba1e26bfcc16b959b4348b25a6f84117d7826b7343634f0880196d4105b",
+      "bytes": 1306098
+    },
+    "back-conditioning.png": {
+      "sha256": "9d791821dd07630a524f211a4c25d6c6ff15466a6ed0cf9c4faec1595ce262e6",
+      "bytes": 951538
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "project_id": "6dd7d7413b1c4fdbbed159505530d82d",
+  "description": "Configuración de la figura con imágenes IA aceptada visualmente por el usuario el 2026-10-29. El proyecto histórico no se distribuye con Git.",
+  "generation": {
+    "model_family": "hunyuan2",
+    "quality": "maximum",
+    "seed": 4007959359,
+    "fidelity_settings": {"steps": 50, "threshold": 0.5, "num_chunks": 2048},
+    "views": {"front": "input.png", "back": "input-back.png"}
+  },
+  "refinement": {
+    "steps": 50,
+    "latents": 32768,
+    "resolution": 512,
+    "chunks": 1024,
+    "sequential_cfg": true,
+    "cfg": 5.0,
+    "mc_level_raw": 0.0
+  },
+  "refinement_seed": 42
+}

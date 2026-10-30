@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+httpx
+python-multipart
+pillow
+trimesh
+numpy
+scipy
+networkx
+rembg[cpu]
+scikit-image
+websockets>=15,<17
+psutil>=7,<8
